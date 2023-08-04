@@ -8,4 +8,5 @@ Implementation of a bokeh server to visualize **_flights.csv_** dataset
 * route tab
 
 ---
-### To change the dataset just change the directory and parameters on main module
+### sample
+![s](sample/sample.jpg)
